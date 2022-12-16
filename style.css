@@ -1,0 +1,42 @@
+body {
+    background-color: #406B5D;
+    height: 100%;
+}
+
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.submit {
+    width: 650px;
+    height: 200px;
+    border: 2px solid #406B5D;
+    background-color: #FFAF55;
+    font-size: 57px;
+    align-items: center;
+    color: #406B5D;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 25px;
+    padding-left: 60px;
+}
+
+#botao img {
+    width: 100px;
+    height: auto;
+    position: absolute;
+    padding-top: 57px;
+    padding-left: 10px;
+
+}
+#logo img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: auto;
+    
+}
